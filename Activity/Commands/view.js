@@ -40,5 +40,19 @@ function viewAsTree(src, psf){
 
 
 function viewAsFlatFile(src){
-
+    let isFile = fs.lstatSync(src).isFile();
+    if(isFile == true){
+        //print file path
+        console.log(src + "*");
+    }
+    else{
+        //print directory path
+        console.log(src);
+        let content = fs.readdirSync(src);
+        for(let i=0; i<content.length; i++){
+            let child = content[i];
+            let cPath = path.join(src, child);
+            viewAsFlatFile(cPath);
+        }
+    }
 }
