@@ -1,12 +1,12 @@
 let fs = require("fs");
 let path = require("path");
-var uniqid = require("uniqid");
+var uniqid = require('uniqid');
 
 module.exports.untreefy = function(){
     let src = arguments[0];
     let dest = arguments[1];
     let root = {};
-    untreefyHandler(src, dest. root);
+    untreefyHandler(src, dest, root);
 
     fs.writeFileSync(`${dest}/metadata.json`, JSON.stringify(root));
 }

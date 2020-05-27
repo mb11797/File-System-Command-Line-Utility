@@ -1,0 +1,98 @@
+{
+    "isFile": false,
+    "children": [
+        {
+            "isFile": false,
+            "children": [
+                {
+                    "isFile": false,
+                    "children": [],
+                    "name": "d5"
+                },
+                {
+                    "isFile": false,
+                    "children": [],
+                    "name": "d6"
+                },
+                {
+                    "isFile": true,
+                    "originalName": "f2.txt",
+                    "newName": "17ms40d9hhbkapt24oh"
+                }
+            ],
+            "name": "d2"
+        },
+        {
+            "isFile": false,
+            "children": [
+                {
+                    "isFile": false,
+                    "children": [
+                        {
+                            "isFile": true,
+                            "originalName": "f7.txt",
+                            "newName": "17ms40d9hhbkapt24om"
+                        }
+                    ],
+                    "name": "d7"
+                },
+                {
+                    "isFile": true,
+                    "originalName": "f3.txt",
+                    "newName": "17ms40d9hhbkapt24on"
+                }
+            ],
+            "name": "d3"
+        },
+        {
+            "isFile": false,
+            "children": [
+                {
+                    "isFile": false,
+                    "children": [
+                        {
+                            "isFile": false,
+                            "children": [],
+                            "name": "d12"
+                        }
+                    ],
+                    "name": "d10"
+                },
+                {
+                    "isFile": false,
+                    "children": [
+                        {
+                            "isFile": false,
+                            "children": [],
+                            "name": "d11"
+                        },
+                        {
+                            "isFile": true,
+                            "originalName": "f8.txt",
+                            "newName": "17ms40d9hhbkapt24oq"
+                        }
+                    ],
+                    "name": "d8"
+                },
+                {
+                    "isFile": false,
+                    "children": [
+                        {
+                            "isFile": true,
+                            "originalName": "f9.txt",
+                            "newName": "17ms40d9hhbkapt24or"
+                        }
+                    ],
+                    "name": "d9"
+                }
+            ],
+            "name": "d4"
+        },
+        {
+            "isFile": true,
+            "originalName": "f1.txt",
+            "newName": "17ms40d9hhbkapt24ot"
+        }
+    ],
+    "name": "d1"
+}
