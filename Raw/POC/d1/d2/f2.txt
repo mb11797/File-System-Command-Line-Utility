@@ -1,0 +1,1 @@
+I am file f2.txt from directory d1/d2
