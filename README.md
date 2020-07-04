@@ -14,7 +14,7 @@ Commands:
 ![Screenshot from 2020-05-28 03-38-07](https://user-images.githubusercontent.com/22445094/83078062-5207c180-a096-11ea-8178-4ad01b482f50.png)
 
 
-4. Treefy the director => node manas treefy src dest
+4. Treefy the directory => node manas treefy src dest
 ![Screenshot from 2020-05-28 03-39-53](https://user-images.githubusercontent.com/22445094/83078091-5df38380-a096-11ea-99bf-6182fae48f9e.png)
 
 
